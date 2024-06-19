@@ -32,7 +32,7 @@
 ## Curso da Dio.me
 
 <table>
-        <h1 style="color:Tomato;"> GIT 💻 </h1>
+        <h1 style="color:Tomato;">GIT 💻 </h1>
         <h2 style="color:blue;">GITHUB 🖥️ </h2>
 </table>
 
