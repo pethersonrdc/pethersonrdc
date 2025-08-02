@@ -1,6 +1,6 @@
 # OLA ! Tudo Bem, Eu sou Pethersonrdc😎
 
-- 👤 Hoje não trabalho não aréa da Programação mas estou aberto a Estagio.
+- 👤 Hoje não trabalho na aréa da Programação mas estou aberto a Estagio.
 - 🦋 Sou estudande de ADS - Analise e Desenvolvimento de Sistema
 - 👾Liguagem em Python
 - 🗣️Faculdade Impacta
